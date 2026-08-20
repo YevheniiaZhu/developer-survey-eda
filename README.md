@@ -2,7 +2,7 @@
 
 ### Project 3: Stack Overflow Developer Survey Data Analysis
 
-```markdown
+
 # 💻 Stack Overflow Developer Survey Data Analysis
 
 ## 📌 Business Overview
