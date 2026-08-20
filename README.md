@@ -1,7 +1,3 @@
----
-
-### Project 3: 
-
 
 # 💻 Stack Overflow Developer Survey Data Analysis
 
